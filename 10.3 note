@@ -1,1 +1,5 @@
+ls 
+touch
+:wq 關檔案
+crtl+c 停止ping網站
 
