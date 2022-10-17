@@ -1,5 +1,10 @@
-ls 
-touch
+ls:查看檔案
+touch:建立檔案
+
+
+vi:建立檔案
+cat:查看檔案內容
+esc:結束編輯
 :wq 關檔案
 crtl+c 停止ping網站
 
