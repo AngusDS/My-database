@@ -29,3 +29,6 @@ crtl+c 停止ping網站
 9.(\S+)空格out空格of空格(\d)空格stars
 
 10.\d{4}\-\d{2}\-\d{2}
+()【括號】把想找的相關字詞放入括號內，可依照括號 裡的字元  排序 找到可能的結果
+[]任意比對字串內的每個項目。EX：product[DEFG] → productD、productE、productF、productG
+{}擷取幾個字
